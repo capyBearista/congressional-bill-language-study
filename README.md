@@ -6,7 +6,7 @@ This is a personal project where I'm exploring text and vote data on bills intro
 
 ### Why This Repo Exists
 
-I'm a student (not at Brown) with a growing interest in AI / ML, but I'm still pretty new to Python and all the tools that come with it. This repo is mostly a place for me to experiment, try things out, and see what I can discover. Maybe down the line, I'll have some cool findings to share :)
+I'm a student with a growing interest in AI / ML, but I'm still pretty new to Python and all the tools that come with it. This repo is mostly a place for me to experiment, try things out, and see what I can discover. Maybe down the line, I'll have some cool findings to share :)
 
 ### Project Structure
 
@@ -68,7 +68,7 @@ congressional-bills/
 
 ### What I'm Curious About
 
-LUNAR Lab's page poses a few interesting questions, specifically, I'm look at:
+LUNAR Lab's page poses a few interesting questions, specifically, I'm looking at:
 
 1. **Can I find pairs of phrases that mean the same thing but are used in very different ways?**
    - For example, phrases like "chain migration" vs. "family reunification" or "estate tax" vs. "death tax". They refer to the exact same thing but hold certain connotations. What other examples can be found?
@@ -80,7 +80,7 @@ LUNAR Lab's page poses a few interesting questions, specifically, I'm look at:
 
 LUNAR Lab Starter Projects: https://cs.brown.edu/people/epavlick/join-us.html
 
-Dataset: https://cs.brown.edu/people/epavlick/congressional-bills.tgz
+Dataset (it will take a while to download): https://cs.brown.edu/people/epavlick/congressional-bills.tgz
 
 ### Getting Started (If You're Like Me)
 
