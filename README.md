@@ -71,7 +71,7 @@ congressional-bills/
 LUNAR Lab's page poses a few interesting questions, specifically, I'm looking at:
 
 1. **Can I find pairs of phrases that mean the same thing but are used in very different ways?**
-   - For example, phrases like "chain migration" vs. "family reunification" or "estate tax" vs. "death tax". They refer to the exact same thing but hold certain connotations. What other examples can be found?
+   - For example, phrases like ["chain migration" vs. "family reunification"](https://www.law.georgetown.edu/immigration-law-journal/archives/a-primer-on-family-reunification-chain-migration/) or "estate tax" vs. "death tax". They refer to the exact same thing but hold certain connotations. What other examples can be found?
 
 2. **Are there patterns in how "short titles" are used for congressional bills?**
    - Is there a way to predict or generate a short title from a longer, official bill title? What trends or quirks show up in the data? I'd ultimately like to be able to generate short titles from the official ones.
@@ -80,7 +80,7 @@ LUNAR Lab's page poses a few interesting questions, specifically, I'm looking at
 
 LUNAR Lab Starter Projects: https://cs.brown.edu/people/epavlick/join-us.html
 
-Dataset (it will take a while to download): https://cs.brown.edu/people/epavlick/congressional-bills.tgz
+Dataset (it might take a while to download): https://cs.brown.edu/people/epavlick/congressional-bills.tgz
 
 ### Getting Started (If You're Like Me)
 
@@ -88,4 +88,4 @@ If you somehow happen upon this repository and are also new to Python or just cu
 
 ---
 
-Thanks for stopping by! If I end up with results or insights worth sharing, I'll try to update this README or post about it somewhere. Until then, happy exploring! 🚀
+Thanks for stopping by! If I end up with results or insights worth sharing, I'll try to update this README or post about it somewhere. Until then, happy exploring! 🔭
